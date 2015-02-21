@@ -2,8 +2,8 @@
 
 creo repo contenedor de ejemplos introductorios a c++
 
-bash´´´
+bash```
 cd folder
 g++ file.cpp -o file
 ./file
-´´´
+```
